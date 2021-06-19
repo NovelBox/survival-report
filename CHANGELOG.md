@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## Added
+- base files
 
-[Unreleased]: https://github.com/NovelBox/<repo>/compare/v0.0.9...HEAD
-[0.0.1]: https://github.com/NovelBox/<repo>/releases/v0.0.1
+[Unreleased]: https://github.com/NovelBox/survival-report/compare/v0.0.1...HEAD
+[0.0.1]: https://github.com/NovelBox/survival-report/releases/v0.0.1
