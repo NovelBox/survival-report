@@ -1,15 +1,16 @@
 #!SMSdata
 book:
-  title: ストーリータイトル
-  copy: コピィ
-  theme: テーマ
-  genre: ジャンル
-  target: 対象
-  contests: コンテスト
+  title: 生存報告、今日もわたしは生きてます
+  copy: それだけが、生きる心の拠り所だった
+  theme: 生きる力の原動
+  genre: SF, Human
+  target: 20から40台男女
+  contests: 妄想コンテスト「３時」準大賞受賞
   caution: 注意書き
   sites:
-    - 小説家になろう
+    - エブリスタ
   tags:
-    - novel
-  version: "0.0.1"
+    - SF, シリアス, 災害, ラジオ
+  version: "1.0.2"
+  released: 2019.6.12
   note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: ancle
+  name: 伯父
+  fullname: 山田,太郎
+  age: 56
+  sex: male
+  job: 電気店
+  belong: 自営業
+  calling:
+    me: ぼく
+  note: 備考

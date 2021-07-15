@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: yayoi
+  name: 弥生
+  fullname: 紀藤,弥生
+  age: 45
+  sex: female
+  job: 食堂
+  belong: 自営業
+  calling:
+    me: 私
+  note: 備考

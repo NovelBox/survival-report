@@ -1,6 +1,134 @@
 #!SMSdata
 rubi:
+  砂嵐:
+    name: 砂嵐《すなあらし》
+    exclusions: []
+    always: false
   所為:
     name: 所為《せい》
+    exclusions: []
+    always: false
+  掲げ:
+    name: 掲《かか》げ
+    exclusions: []
+    always: false
+  覗く:
+    name: 覗《のぞ》く
+    exclusions: []
+    always: false
+  刹那:
+    name: 刹那《せつな》
+    exclusions: []
+    always: false
+  覆う:
+    name: 覆《おお》う
+    exclusions: []
+    always: false
+  擦り:
+    name: 擦《こす》り
+    exclusions: []
+    always: false
+  紀藤弥生:
+    name: 紀藤弥生《きとうやよい》
+    exclusions: []
+    always: false
+  殆ど:
+    name: 殆《ほとん》ど
+    exclusions: []
+    always: false
+  頷く:
+    name: 頷《うなず》く
+    exclusions: []
+    always: false
+  傾いた:
+    name: 傾《かたむ》いた
+    exclusions: []
+    always: false
+  餞別:
+    name: 餞別《せんべつ》
+    exclusions: []
+    always: false
+  大災厄:
+    name: 大災厄《だいさいやく》
+    exclusions: []
+    always: false
+  未曾有:
+    name: 未曾有《みぞう》
+    exclusions: []
+    always: false
+  囀り:
+    name: 囀《さえず》り
+    exclusions: []
+    always: false
+  瓦礫:
+    name: 瓦礫《がれき》
+    exclusions: []
+    always: false
+  怪訝:
+    name: 怪訝《けげん》
+    exclusions: []
+    always: false
+  島航大:
+    name: 島航大《しまこうだい》
+    exclusions: []
+    always: false
+  一瞥:
+    name: 一瞥《いちべつ》
+    exclusions: []
+    always: false
+  梯子:
+    name: 梯子《はしご》
+    exclusions: []
+    always: false
+  引き摺って:
+    name: 引き摺《ず》って
+    exclusions: []
+    always: false
+  住処:
+    name: 住処《すみか》
+    exclusions: []
+    always: false
+  芳しさ:
+    name: 芳《かぐわ》しさ
+    exclusions: []
+    always: false
+  鯖:
+    name: 鯖《さば》
+    exclusions: []
+    always: false
+  鮭:
+    name: 鮭《さけ》
+    exclusions: []
+    always: false
+  齧([らりるれろ]):
+    name: 齧《かじ》\1
+    exclusions: []
+    always: false
+  暫く:
+    name: 暫《しばら》く
+    exclusions: []
+    always: false
+  嗚咽:
+    name: 嗚咽《おえつ》
+    exclusions: []
+    always: false
+  堪え:
+    name: 堪《こら》え
+    exclusions: []
+    always: false
+  躊躇([いう]):
+    name: 躊躇《ためら》\1
+    exclusions: []
+    always: false
+  相槌:
+    name: 相槌《あいづち》
+    exclusions: []
+    always: false
+  縋([らりるれろ]):
+    name: 縋《すが》\1
+    exclusions: []
+    always: false
+  大垣条志:
+    name: 大垣条志《おおがきじょうじ》
     exclusions: []
     always: false
