@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: george
+  name: 条志
+  fullname: 大垣,条志
+  age: 30
+  sex: male
+  job: 会社員
+  belong: 会社
+  calling:
+    me: 僕
+  note: 生存報告を始めた男性

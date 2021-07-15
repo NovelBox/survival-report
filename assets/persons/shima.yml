@@ -1,0 +1,13 @@
+#!SMSdata
+person:
+  tag: shima
+  name: 島
+  fullname: 島,航大
+  age: 30
+  sex: male
+  job: 会社員
+  belong: 会社
+  calling:
+    me: 俺
+    geroge: ジョージ
+  note: 三時の報告をしている男性と、勘違いする人

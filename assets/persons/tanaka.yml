@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: tanaka
+  name: 田中
+  fullname: 田中,太郎
+  age: 35
+  sex: male
+  job: 会社員
+  belong: 会社
+  calling:
+    me: オレ
+  note: 途中で出会うボートに乗った男性
