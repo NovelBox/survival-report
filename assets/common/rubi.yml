@@ -4,7 +4,7 @@ rubi:
     name: 砂嵐《すなあらし》
     exclusions: []
     always: false
-  摑([まみむめも]):
+  摑([まみむめもん]):
     name: 摑《つか》\1
     exclusions: []
     always: false
@@ -232,7 +232,7 @@ rubi:
     name: 芝公園《しばこうえん》
     exclusions: []
     always: false
-  頷([かきくけこ]):
+  頷([かきくけこい]):
     name: 頷《うなず》\1
     exclusions: []
     always: false
@@ -310,10 +310,6 @@ rubi:
     always: false
   殆ど:
     name: 殆《ほとん》ど
-    exclusions: []
-    always: false
-  頷く:
-    name: 頷《うなず》く
     exclusions: []
     always: false
   傾いた:
@@ -778,5 +774,9 @@ rubi:
     always: false
   剥げ:
     name: 剥《は》げ
+    exclusions: []
+    always: false
+  慎重:
+    name: 慎重《しんちょう》
     exclusions: []
     always: false
