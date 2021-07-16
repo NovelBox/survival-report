@@ -780,3 +780,23 @@ rubi:
     name: 慎重《しんちょう》
     exclusions: []
     always: false
+  磁気嵐:
+    name: 磁気嵐《じきあらし》
+    exclusions: []
+    always: false
+  折角:
+    name: 折角《せっかく》
+    exclusions: []
+    always: false
+  奪([わいうえおっ]):
+    name: 奪《うば》\1
+    exclusions: []
+    always: false
+  頬([をのはがに]):
+    name: 頬《ほお》\1
+    exclusions: []
+    always: false
+  無精髭:
+    name: 無精髭《ぶしょうひげ》
+    exclusions: []
+    always: false
