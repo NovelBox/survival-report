@@ -2,7 +2,7 @@
 
 ## main
 
-::title = メイン
+::title = 生存報告、今日もわたしは生きてます
 ::flags = nospin
 
 [plot]

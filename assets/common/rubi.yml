@@ -4,6 +4,282 @@ rubi:
     name: 砂嵐《すなあらし》
     exclusions: []
     always: false
+  摑([まみむめもん]):
+    name: 摑《つか》\1
+    exclusions: []
+    always: false
+  幾度:
+    name: 幾度《いくど》
+    exclusions: []
+    always: false
+  抜け:
+    name: 抜《ぬ》け
+    exclusions: []
+    always: false
+  亡く:
+    name: 亡《な》く
+    exclusions: []
+    always: false
+  袖口:
+    name: 袖口《そでぐち》
+    exclusions: []
+    always: false
+  僅か:
+    name: 僅《わず》か
+    exclusions: []
+    always: false
+  髪も:
+    name: 髪《かみ》も
+    exclusions: []
+    always: false
+  紫の:
+    name: 紫《むらさき》の
+    exclusions: []
+    always: false
+  凄い:
+    name: 凄《すご》い
+    exclusions: []
+    always: false
+  瞬間:
+    name: 瞬間《しゅんかん》
+    exclusions: []
+    always: false
+  割った:
+    name: 割《わ》った
+    exclusions: []
+    always: false
+  彼の声:
+    name: 彼《かれ》の声
+    exclusions: []
+    always: false
+  僕:
+    name: 僕《ぼく》
+    exclusions: []
+    always: false
+  呑み込まれて:
+    name: 呑《の》み込《こ》まれて
+    exclusions: []
+    always: false
+  聴こえ:
+    name: 聴《き》こえ
+    exclusions: []
+    always: false
+  脱力:
+    name: 脱力《だつりょく》
+    exclusions: []
+    always: false
+  突き出した:
+    name: 突《つ》き出《だ》した
+    exclusions: []
+    always: false
+  濃い:
+    name: 濃《こ》い
+    exclusions: []
+    always: false
+  迫る:
+    name: 迫《せま》る
+    exclusions: []
+    always: false
+  溜息:
+    name: 溜息《ためいき》
+    exclusions: []
+    always: false
+  斜め:
+    name: 斜《なな》め
+    exclusions: []
+    always: false
+  伯父:
+    name: 伯父《おじ》
+    exclusions: []
+    always: false
+  出迎え:
+    name: 出迎《でむか》え
+    exclusions: []
+    always: false
+  懐中電灯:
+    name: 懐中電灯《かいちゅうでんとう》
+    exclusions: []
+    always: false
+  連絡:
+    name: 連絡《れんらく》
+    exclusions: []
+    always: false
+  互い:
+    name: 互《たが》い
+    exclusions: []
+    always: false
+  施設:
+    name: 施設《しせつ》
+    exclusions: []
+    always: false
+  辛うじて:
+    name: 辛《かろ》うじて
+    exclusions: []
+    always: false
+  伸びる:
+    name: 伸《の》びる
+    exclusions: []
+    always: false
+  怪我:
+    name: 怪我《けが》
+    exclusions: []
+    always: false
+  疲れ:
+    name: 疲《つか》れ
+    exclusions: []
+    always: false
+  溢れ返って:
+    name: 溢《あふ》れ返《かえ》って
+    exclusions: []
+    always: false
+  炊き出し:
+    name: 炊《た》き出《だ》し
+    exclusions: []
+    always: false
+  外れ:
+    name: 外《はず》れ
+    exclusions: []
+    always: false
+  途中:
+    name: 途中《とちゅう》
+    exclusions: []
+    always: false
+  崩れ:
+    name: 崩《くず》れ
+    exclusions: []
+    always: false
+  廊下:
+    name: 廊下《ろうか》
+    exclusions: []
+    always: false
+  超える:
+    name: 超《こ》える
+    exclusions: []
+    always: false
+  扱う:
+    name: 扱《あつか》う
+    exclusions: []
+    always: false
+  彼女:
+    name: 彼女《かのじょ》
+    exclusions: []
+    always: false
+  巨大:
+    name: 巨大《きょだい》
+    exclusions: []
+    always: false
+  寸胴:
+    name: 寸胴《ずんどう》
+    exclusions: []
+    always: false
+  備蓄庫:
+    name: 備蓄庫《びちくこ》
+    exclusions: []
+    always: false
+  綺麗:
+    name: 綺麗《きれい》
+    exclusions: []
+    always: false
+  空っぽ:
+    name: 空《から》っぽ
+    exclusions: []
+    always: false
+  酷く:
+    name: 酷《ひど》く
+    exclusions: []
+    always: false
+  拳大:
+    name: 拳大《こぶしだい》
+    exclusions: []
+    always: false
+  芋:
+    name: 芋《いも》
+    exclusions: []
+    always: false
+  剥く:
+    name: 剥《む》く
+    exclusions: []
+    always: false
+  玉葱:
+    name: 玉葱《たまねぎ》
+    exclusions: []
+    always: false
+  触って:
+    name: 触《さわ》って
+    exclusions: []
+    always: false
+  為([だに]):
+    name: 為《ため》\1
+    exclusions: []
+    always: false
+  盤面:
+    name: 盤面《ばんめん》
+    exclusions: []
+    always: false
+  繋がる:
+    name: 繋《つな》がる
+    exclusions: []
+    always: false
+  呆然:
+    name: 呆然《ぼうぜん》
+    exclusions: []
+    always: false
+  荒げ:
+    name: 荒《あら》げ
+    exclusions: []
+    always: false
+  芝公園:
+    name: 芝公園《しばこうえん》
+    exclusions: []
+    always: false
+  頷([かきくけこい]):
+    name: 頷《うなず》\1
+    exclusions: []
+    always: false
+  電波塔:
+    name: 電波塔《でんぱとう》
+    exclusions: []
+    always: false
+  探索隊:
+    name: 探索隊《たんさくたい》
+    exclusions: []
+    always: false
+  駄目:
+    name: 駄目《だめ》
+    exclusions: []
+    always: false
+  掻く:
+    name: 掻《か》く
+    exclusions: []
+    always: false
+  一緒:
+    name: 一緒《いっしょ》
+    exclusions: []
+    always: false
+  寝袋:
+    name: 寝袋《ねぶくろ》
+    exclusions: []
+    always: false
+  既に:
+    name: 既《すで》に
+    exclusions: []
+    always: false
+  空になって:
+    name: 空《から》になって
+    exclusions: []
+    always: false
+  煮沸:
+    name: 煮沸《しゃふつ》
+    exclusions: []
+    always: false
+  傾いた:
+    name: 傾《かたむ》いた
+    exclusions: []
+    always: false
+  震え:
+    name: 震《ふる》え
+    exclusions: []
+    always: false
   所為:
     name: 所為《せい》
     exclusions: []
@@ -34,10 +310,6 @@ rubi:
     always: false
   殆ど:
     name: 殆《ほとん》ど
-    exclusions: []
-    always: false
-  頷く:
-    name: 頷《うなず》く
     exclusions: []
     always: false
   傾いた:
@@ -80,8 +352,8 @@ rubi:
     name: 梯子《はしご》
     exclusions: []
     always: false
-  引き摺って:
-    name: 引き摺《ず》って
+  引き摺([らりるれろっ]):
+    name: 引《ひ》き摺《ず》\1
     exclusions: []
     always: false
   住処:
@@ -130,5 +402,401 @@ rubi:
     always: false
   大垣条志:
     name: 大垣条志《おおがきじょうじ》
+    exclusions: []
+    always: false
+  謎の:
+    name: 謎《なぞ》の
+    exclusions: []
+    always: false
+  発端:
+    name: 発端《ほったん》
+    exclusions: []
+    always: false
+  響([かきくけこ]):
+    name: 響《ひび》\1
+    exclusions: []
+    always: false
+  違い過ぎ:
+    name: 違《ちが》い過《す》ぎ
+    exclusions: []
+    always: false
+  辿り:
+    name: 辿《たど》り
+    exclusions: []
+    always: false
+  壁面:
+    name: 壁面《へきめん》
+    exclusions: []
+    always: false
+  網:
+    name: 網《あみ》
+    exclusions: []
+    always: false
+  掠れ声:
+    name: 掠《かす》れ声《ごえ》
+    exclusions: []
+    always: false
+  甲府:
+    name: 甲府《こうふ》
+    exclusions: []
+    always: false
+  山梨:
+    name: 山梨《やまなし》
+    exclusions: []
+    always: false
+  多摩川:
+    name: 多摩川《たまがわ》
+    exclusions: []
+    always: false
+  有様:
+    name: 有様《ありさま》
+    exclusions: []
+    always: false
+  東京湾:
+    name: 東京湾《とうきょうわん》
+    exclusions: []
+    always: false
+  壊滅的:
+    name: 壊滅的《かいめつてき》
+    exclusions: []
+    always: false
+  ひと粒:
+    name: ひと粒《つぶ》
+    exclusions: []
+    always: false
+  遭遇:
+    name: 遭遇《そうぐう》
+    exclusions: []
+    always: false
+  その度:
+    name: その度《たび》
+    exclusions: []
+    always: false
+  先端:
+    name: 先端《せんたん》
+    exclusions: []
+    always: false
+  捉え:
+    name: 捉《とら》え
+    exclusions: []
+    always: false
+  突き動([かきくけこ]):
+    name: 突《つ》き動《うご》\1
+    exclusions: []
+    always: false
+  押し流:
+    name: 押《お》し流《なが》
+    exclusions: []
+    always: false
+  掛けて:
+    name: 掛《か》けて
+    exclusions: []
+    always: false
+  浮かべ:
+    name: 浮《う》かべ
+    exclusions: []
+    always: false
+  自己紹介:
+    name: 自己紹介《じこしょうかい》
+    exclusions: []
+    always: false
+  錆び:
+    name: 錆《さ》び
+    exclusions: []
+    always: false
+  脆く:
+    name: 脆《もろ》く
+    exclusions: []
+    always: false
+  幾つか:
+    name: 幾《いく》つか
+    exclusions: []
+    always: false
+  右腕:
+    name: 右腕《みぎうで》
+    exclusions: []
+    always: false
+  擦り傷:
+    name: 擦《す》り傷《きず》
+    exclusions: []
+    always: false
+  踊り場:
+    name: 踊《おど》り場《ば》
+    exclusions: []
+    always: false
+  振り返([らりるれろっ]):
+    name: 振《ふ》り返《かえ》\1
+    exclusions: []
+    always: false
+  大丈夫:
+    name: 大丈夫《だいじょうぶ》
+    exclusions: []
+    always: false
+  更に:
+    name: 更《さら》に
+    exclusions: []
+    always: false
+  緩め:
+    name: 緩《ゆる》め
+    exclusions: []
+    always: false
+  塗装:
+    name: 塗装《とそう》
+    exclusions: []
+    always: false
+  扉:
+    name: 扉《とびら》
+    exclusions: []
+    always: false
+  沢山:
+    name: 沢山《たくさん》
+    exclusions: []
+    always: false
+  怖け:
+    name: 怖《おじ》け
+    exclusions: []
+    always: false
+  拒否:
+    name: 拒否《きょひ》
+    exclusions: []
+    always: false
+  覚悟:
+    name: 覚悟《かくご》
+    exclusions: []
+    always: false
+  黙([らりるれろっ]):
+    name: 黙《だま》\1
+    exclusions: []
+    always: false
+  甲高い:
+    name: 甲高《かんだか》い
+    exclusions: []
+    always: false
+  聴こ:
+    name: 聴《き》こ
+    exclusions: []
+    always: false
+  噛み締め:
+    name: 噛《か》み締《し》め
+    exclusions: []
+    always: false
+  伏し:
+    name: 伏《ふ》し
+    exclusions: []
+    always: false
+  傍に:
+    name: 傍《そば》に
+    exclusions: []
+    always: false
+  避け:
+    name: 避《さ》け
+    exclusions: []
+    always: false
+  涙([がはをの]):
+    name: 涙《なみだ》\1
+    exclusions: []
+    always: false
+  慌てて:
+    name: 慌《あわ》てて
+    exclusions: []
+    always: false
+  俺:
+    name: 俺《おれ》
+    exclusions: []
+    always: false
+  概ね:
+    name: 概《おおむ》ね
+    exclusions: []
+    always: false
+  即席:
+    name: 即席《そくせき》
+    exclusions: []
+    always: false
+  柔らか:
+    name: 柔《やわ》らか
+    exclusions: []
+    always: false
+  睡眠:
+    name: 睡眠《すいみん》
+    exclusions: []
+    always: false
+  思いの外:
+    name: 思いの外《ほか》
+    exclusions: []
+    always: false
+  疲弊:
+    name: 疲弊《ひへい》
+    exclusions: []
+    always: false
+  締め上げ:
+    name: 締《し》め上《あ》げ
+    exclusions: []
+    always: false
+  焚き火:
+    name: 焚《た》き火《び》
+    exclusions: []
+    always: false
+  串:
+    name: 串《くし》
+    exclusions: []
+    always: false
+  突き刺([さしすせそ]):
+    name: 突《つ》き刺《さ》\1
+    exclusions: []
+    always: false
+  炙([らりるれろっ]):
+    name: 炙《あぶ》\1
+    exclusions: []
+    always: false
+  秋刀魚:
+    name: 秋刀魚《さんま》
+    exclusions: []
+    always: false
+  釣([らりるれろっ]):
+    name: 釣《つ》\1
+    exclusions: []
+    always: false
+  恐い:
+    name: 恐《こわ》い
+    exclusions: []
+    always: false
+  旨い:
+    name: 旨《うま》い
+    exclusions: []
+    always: false
+  脂([のをはが]):
+    name: 脂《あぶら》\1
+    exclusions: []
+    always: false
+  滲んで:
+    name: 滲《にじ》んで
+    exclusions: []
+    always: false
+  繰り返す:
+    name: 繰《く》り返《かえ》す
+    exclusions: []
+    always: false
+  枯れ:
+    name: 枯《か》れ
+    exclusions: []
+    always: false
+  触れ:
+    name: 触《ふ》れ
+    exclusions: []
+    always: false
+  注い:
+    name: 注《そそ》い
+    exclusions: []
+    always: false
+  尋ね:
+    name: 尋《たず》ね
+    exclusions: []
+    always: false
+  偶然:
+    name: 偶然《ぐうぜん》
+    exclusions: []
+    always: false
+  奇跡:
+    name: 奇跡《きせき》
+    exclusions: []
+    always: false
+  先輩:
+    name: 先輩《せんぱい》
+    exclusions: []
+    always: false
+  淡々:
+    name: 淡々《たんたん》
+    exclusions: []
+    always: false
+  随分:
+    name: 随分《ずいぶん》
+    exclusions: []
+    always: false
+  恵ま:
+    name: 恵《めぐ》ま
+    exclusions: []
+    always: false
+  環境:
+    name: 環境《かんきょう》
+    exclusions: []
+    always: false
+  歪んだ:
+    name: 歪《ゆが》んだ
+    exclusions: []
+    always: false
+  汲んで:
+    name: 汲《く》んで
+    exclusions: []
+    always: false
+  奴ら:
+    name: 奴《やつ》ら
+    exclusions: []
+    always: false
+  瞳に:
+    name: 瞳《ひとみ》に
+    exclusions: []
+    always: false
+  頼り:
+    name: 頼《たよ》り
+    exclusions: []
+    always: false
+  晩御飯:
+    name: 晩御飯《ばんごはん》
+    exclusions: []
+    always: false
+  お陰:
+    name: お陰《かげ》
+    exclusions: []
+    always: false
+  握る:
+    name: 握《にぎ》る
+    exclusions: []
+    always: false
+  裂く:
+    name: 裂《さ》く
+    exclusions: []
+    always: false
+  緊張:
+    name: 緊張《きんちょう》
+    exclusions: []
+    always: false
+  奥に:
+    name: 奥《おく》に
+    exclusions: []
+    always: false
+  抱きしめ:
+    name: 抱《だ》きしめ
+    exclusions: []
+    always: false
+  絞り出([さしすせそ]):
+    name: 絞《しぼ》り出《だ》\1
+    exclusions: []
+    always: false
+  剥げ:
+    name: 剥《は》げ
+    exclusions: []
+    always: false
+  慎重:
+    name: 慎重《しんちょう》
+    exclusions: []
+    always: false
+  磁気嵐:
+    name: 磁気嵐《じきあらし》
+    exclusions: []
+    always: false
+  折角:
+    name: 折角《せっかく》
+    exclusions: []
+    always: false
+  奪([わいうえおっ]):
+    name: 奪《うば》\1
+    exclusions: []
+    always: false
+  頬([をのはがに]):
+    name: 頬《ほお》\1
+    exclusions: []
+    always: false
+  無精髭:
+    name: 無精髭《ぶしょうひげ》
     exclusions: []
     always: false
